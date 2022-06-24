@@ -9,8 +9,4 @@ COPY . .
 
 EXPOSE 8080
 
-FROM scratch
-
-COPY --from= /app.py
-
 CMD [ "python3", "app.py" ]
