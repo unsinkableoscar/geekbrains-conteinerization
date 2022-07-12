@@ -28,3 +28,12 @@ data:
       queue_master_locator=min-masters
       ## See http://www.rabbitmq.com/access-control.html#loopback-users
       loopback_users.guest = false
+Footer
+© 2022 GitHub, Inc.
+Footer navigation
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
