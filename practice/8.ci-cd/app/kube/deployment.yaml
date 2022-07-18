@@ -15,7 +15,11 @@ spec:
     spec:
       containers:
         - name: app
-          image: nginx:1.12 # это просто плэйсхолдер
+<<<<<<< HEAD
+          image:  __IMAGE__
+=======
+          image: __IMAGE__
+>>>>>>> 059774a05cc2a8cb2f39046cb82a5a779a7bd94b
           env:
             - name: DB_HOST
               value: database

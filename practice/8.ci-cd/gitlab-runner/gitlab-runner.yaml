@@ -13,7 +13,7 @@ metadata:
   name: "release-name-gitlab-runner"
 type: Opaque
 stringData:
-  runner-registration-token: GR1348941ydPMgixvrxrWfQ-EChkJ
+  runner-registration-token: <CHANGE ME>
   runner-token: ""
 ---
 # Source: gitlab-runner/templates/configmap.yaml
